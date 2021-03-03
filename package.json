@@ -1,0 +1,20 @@
+{
+  "name": "react-spring-nextjs-routes",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "polished": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-spring": "8.0.18",
+    "styled-components": "4.2.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": "Animated routes in Next.js with react-spring hooks API 🎉 #nextjs #reactspring"
+}
